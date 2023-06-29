@@ -1,0 +1,20 @@
+.texto-menor{
+    font-size: 13px;
+}
+
+.facilidades{
+    width: 325px;
+}
+
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+.d-xl-block{
+    width: 100%;
+    max-height: 415px;
+}
